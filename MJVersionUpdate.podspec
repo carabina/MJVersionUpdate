@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author       = { "tenric" => "minjieni@vip.qq.com" }
   s.platform     = :ios, "8.0"
-  s.source       = { :git => "https://github.com/tenric/VersionUpdate.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/tenric/MJVersionUpdate.git", :tag => s.version.to_s }
   s.source_files  = "MJVersionUpdate/*"
   s.requires_arc = true
 
