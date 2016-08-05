@@ -8,7 +8,7 @@ Now we only support two channels "AppStore" or "Fir", no channel or other channe
 ![demo1](https://raw.githubusercontent.com/tenric/VersionUpdate/master/VersionUpdateDemo/Demo1.png)
 
 ######2.Include library use CocoaPods
-    pod 'VersionUpdate', '~> 1.0.2'
+    pod 'MJVersionUpdate', '~> 1.0.0'
 
 ######3.Call this when app launch
 
